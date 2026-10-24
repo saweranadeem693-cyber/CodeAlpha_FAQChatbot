@@ -1,0 +1,14 @@
+[
+  {"question": "What are your working hours?", "answer": "We are open Monday to Saturday, 9:00 AM to 6:00 PM. We are closed on Sundays."},
+  {"question": "How can I place an order?", "answer": "Browse the catalogue, add items to your cart, and click Checkout. You'll get a confirmation email once the order is placed."},
+  {"question": "What payment methods do you accept?", "answer": "We accept credit/debit cards, bank transfer, JazzCash, Easypaisa and cash on delivery."},
+  {"question": "How long does delivery take?", "answer": "Delivery takes 3-5 working days within major cities and 5-7 working days elsewhere."},
+  {"question": "How can I track my order?", "answer": "Open 'My Orders' in your account and click Track, or use the tracking link we email you after dispatch."},
+  {"question": "What is your return policy?", "answer": "You can return unused items within 7 days of delivery for a full refund or exchange."},
+  {"question": "How do I get a refund?", "answer": "Once we receive the returned item, the refund is processed to your original payment method within 5-7 working days."},
+  {"question": "Can I cancel my order?", "answer": "Yes. Orders can be cancelled free of charge before they are dispatched, from the 'My Orders' page."},
+  {"question": "How do I reset my password?", "answer": "Click 'Forgot Password' on the login page, enter your email, and follow the reset link we send you."},
+  {"question": "How can I contact customer support?", "answer": "Email support@example.com or call +92-300-0000000 during working hours."},
+  {"question": "Do you offer international shipping?", "answer": "Not yet. We currently ship only within Pakistan, but international shipping is planned."},
+  {"question": "Do you offer discounts or promo codes?", "answer": "Yes! Subscribe to our newsletter for a 10% first-order code and seasonal sale alerts."}
+]
